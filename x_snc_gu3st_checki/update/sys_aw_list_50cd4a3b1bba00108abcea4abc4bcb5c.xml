@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Guest Checkins">9ccd4a3b1bba00108abcea4abc4bcb57</category>
+        <columns>assigned_to,category,due_date,location,number,opened_by,priority,short_description,state,sys_class_name,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on</columns>
+        <condition/>
+        <groups/>
+        <ignore_highlight>false</ignore_highlight>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-13 05:47:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>50cd4a3b1bba00108abcea4abc4bcb5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Guest Checkin" source="x_snc_gu3st_checki">233dcef71bba00108abcea4abc4bcb32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guest Checkin">233dcef71bba00108abcea4abc4bcb32</sys_scope>
+        <sys_update_name>sys_aw_list_50cd4a3b1bba00108abcea4abc4bcb5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-13 05:47:40</sys_updated_on>
+        <table>x_snc_gu3st_checki_guest_checkins</table>
+        <title>All</title>
+        <workspace display_value="Guest Checkin">bfbd42b71bba00108abcea4abc4bcb70</workspace>
+    </sys_aw_list>
+</record_update>

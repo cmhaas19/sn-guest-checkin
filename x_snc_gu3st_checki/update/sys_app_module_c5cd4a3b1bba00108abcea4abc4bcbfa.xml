@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Workspace Experience">81a6ba9b530233004cb4ddeeff7b1258</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Guest Checkin ➚</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>101</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>now/workspace/guest_checkin</query>
+        <report/>
+        <roles>x_snc_gu3st_checki.user,x_snc_gu3st_checki.manager</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-13 05:47:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c5cd4a3b1bba00108abcea4abc4bcbfa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Guest Checkin ➚</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Guest Checkin" source="x_snc_gu3st_checki">233dcef71bba00108abcea4abc4bcb32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guest Checkin">233dcef71bba00108abcea4abc4bcb32</sys_scope>
+        <sys_update_name>sys_app_module_c5cd4a3b1bba00108abcea4abc4bcbfa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-13 05:47:43</sys_updated_on>
+        <timeline_page/>
+        <title>Guest Checkin ➚</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Guest Checkin</window_name>
+    </sys_app_module>
+</record_update>

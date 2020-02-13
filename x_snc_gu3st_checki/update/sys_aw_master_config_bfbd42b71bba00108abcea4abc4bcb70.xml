@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Guest Checkin">f3bd42b71bba00108abcea4abc4bcb71</compiled_page_registry>
+        <description/>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Guest Checkin Search Context Config">33bd42b71bba00108abcea4abc4bcb6f</global_search_data>
+        <name>Guest Checkin</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-13 05:47:38</sys_created_on>
+        <sys_id>bfbd42b71bba00108abcea4abc4bcb70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Guest Checkin</sys_name>
+        <sys_package display_value="Guest Checkin" source="x_snc_gu3st_checki">233dcef71bba00108abcea4abc4bcb32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guest Checkin">233dcef71bba00108abcea4abc4bcb32</sys_scope>
+        <sys_update_name>sys_aw_master_config_bfbd42b71bba00108abcea4abc4bcb70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-13 05:47:38</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>guest_checkin</workspace_url>
+    </sys_aw_master_config>
+</record_update>

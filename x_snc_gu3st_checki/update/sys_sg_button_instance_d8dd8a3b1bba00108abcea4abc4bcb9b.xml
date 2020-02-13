@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Guest Checkins)">d4dd8a3b1bba00108abcea4abc4bcb99</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Guest Checkins)</name>
+        <order/>
+        <parent>10dd8a3b1bba00108abcea4abc4bcb96</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-13 05:47:56</sys_created_on>
+        <sys_id>d8dd8a3b1bba00108abcea4abc4bcb9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Guest Checkins)</sys_name>
+        <sys_package display_value="Guest Checkin" source="x_snc_gu3st_checki">233dcef71bba00108abcea4abc4bcb32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guest Checkin">233dcef71bba00108abcea4abc4bcb32</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d8dd8a3b1bba00108abcea4abc4bcb9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-13 05:47:56</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d8dd8a3b1bba00108abcea4abc4bcb9b"/>
+</record_update>

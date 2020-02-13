@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Guest Checkin Guest Checkins</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-13 05:47:56</sys_created_on>
+        <sys_id>54dd8a3b1bba00108abcea4abc4bcb8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Guest Checkin Guest Checkins</sys_name>
+        <sys_package display_value="Guest Checkin" source="x_snc_gu3st_checki">233dcef71bba00108abcea4abc4bcb32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guest Checkin">233dcef71bba00108abcea4abc4bcb32</sys_scope>
+        <sys_update_name>sys_sg_data_item_54dd8a3b1bba00108abcea4abc4bcb8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-13 05:47:56</sys_updated_on>
+        <table>x_snc_gu3st_checki_guest_checkins</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=54dd8a3b1bba00108abcea4abc4bcb8e"/>
+</record_update>

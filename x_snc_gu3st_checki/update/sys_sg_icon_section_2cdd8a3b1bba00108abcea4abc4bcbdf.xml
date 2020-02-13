@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>1cdd8a3b1bba00108abcea4abc4bcb90</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>horizontal</orientation>
+        <required_roles>x_snc_gu3st_checki.user,x_snc_gu3st_checki.manager</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-13 05:47:57</sys_created_on>
+        <sys_id>2cdd8a3b1bba00108abcea4abc4bcbdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Guest Checkins</sys_name>
+        <sys_package display_value="Guest Checkin" source="x_snc_gu3st_checki">233dcef71bba00108abcea4abc4bcb32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guest Checkin">233dcef71bba00108abcea4abc4bcb32</sys_scope>
+        <sys_update_name>sys_sg_icon_section_2cdd8a3b1bba00108abcea4abc4bcbdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-13 05:47:57</sys_updated_on>
+        <table/>
+        <title>Guest Checkins</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

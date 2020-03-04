@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Guest Checkins" max_length="40" name="x_snc_gu3st_checki_guest_checkins" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Assigned to" max_length="40" name="assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Due date" max_length="40" name="due_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Opened by" max_length="40" name="opened_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Priority" max_length="40" name="priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="85" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State" max_length="40" name="state" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

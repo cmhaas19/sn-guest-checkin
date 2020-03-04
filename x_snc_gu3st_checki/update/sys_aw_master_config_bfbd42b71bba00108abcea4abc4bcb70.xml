@@ -6,7 +6,7 @@
         <compiled_page_registry display_value="Guest Checkin">f3bd42b71bba00108abcea4abc4bcb71</compiled_page_registry>
         <description/>
         <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
-        <global_search_data display_value="Guest Checkin Search Context Config">33bd42b71bba00108abcea4abc4bcb6f</global_search_data>
+        <global_search_data display_value="">33bd42b71bba00108abcea4abc4bcb6f</global_search_data>
         <name>Guest Checkin</name>
         <navigation_type>tab</navigation_type>
         <notifications_enabled>true</notifications_enabled>

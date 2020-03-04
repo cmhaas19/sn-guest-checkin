@@ -5,7 +5,6 @@
         <columns>assigned_to,category,due_date,location,number,opened_by,priority,short_description,state,sys_class_name,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on</columns>
         <condition/>
         <groups/>
-        <ignore_highlight>false</ignore_highlight>
         <list_attributes/>
         <order>100</order>
         <roles/>
